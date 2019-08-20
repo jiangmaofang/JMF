@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b9ee5ea-10d9-4eaa-b707-d568e45cb314" name="Default Changelist" comment="" />
+    <list default="true" id="8b9ee5ea-10d9-4eaa-b707-d568e45cb314" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmf-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jmf-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmf-web/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/jmf-web/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/jmf-web/target/" />
@@ -37,8 +42,8 @@
     <session id="-1393744406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -50,14 +55,14 @@
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="12" />
           <entry key="html" value="1" />
-          <entry key="iml" value="2" />
+          <entry key="iml" value="3" />
           <entry key="java" value="126" />
           <entry key="xml" value="45" />
           <entry key="yml" value="5" />
@@ -67,7 +72,7 @@
         <counts>
           <entry key="CLASS" value="12" />
           <entry key="HTML" value="1" />
-          <entry key="IDEA_MODULE" value="2" />
+          <entry key="IDEA_MODULE" value="3" />
           <entry key="JAVA" value="126" />
           <entry key="XML" value="45" />
           <entry key="YAML" value="5" />
@@ -79,7 +84,7 @@
           <entry key="dummy" value="21" />
           <entry key="iml" value="1" />
           <entry key="java" value="2041" />
-          <entry key="xml" value="722" />
+          <entry key="xml" value="729" />
           <entry key="yml" value="134" />
         </counts>
       </usages-collector>
@@ -89,7 +94,7 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="2041" />
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="XML" value="722" />
+          <entry key="XML" value="729" />
           <entry key="YAML" value="134" />
         </counts>
       </usages-collector>
@@ -97,15 +102,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/PageInterceptorProperties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/MysqlMapperConfig.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,17 +114,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jmf-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+            <state relative-caret-position="165">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-web/jmf-web.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6291">
-              <caret line="233" column="16" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
+            <state relative-caret-position="127">
+              <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -145,7 +146,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/DataErrorDTO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
+            <state relative-caret-position="837">
               <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -157,7 +158,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/LearnApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
+            <state relative-caret-position="297">
               <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -187,7 +188,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
+            <state relative-caret-position="1026">
               <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -298,6 +299,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="E:\MyRepository" />
         <option name="mavenHome" value="E:/apache-maven-3.3.9" />
         <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
@@ -318,17 +320,22 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="jmf-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jmf-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="390" />
-    <option name="y" value="147" />
-    <option name="width" value="784" />
-    <option name="height" value="627" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="143" />
+    <option name="y" value="99" />
+    <option name="width" value="856" />
+    <option name="height" value="604" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -338,6 +345,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -345,11 +353,15 @@
               <item name="fifth-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="fifth-learn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fifth-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifth-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="jmf-web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -360,14 +372,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566287711080" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566290641266" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -457,18 +469,19 @@
       <workItem from="1566177116913" duration="9033000" />
       <workItem from="1566263756709" duration="861000" />
       <workItem from="1566272107807" duration="7000" />
-      <workItem from="1566272233604" duration="3056000" />
+      <workItem from="1566272233604" duration="4076000" />
+      <workItem from="1566290688880" duration="288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97912000" />
+    <option name="totallyTimeSpent" value="99220000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="636" y="86" width="784" height="627" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.24438903" visible="true" weight="0.40469614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.24438903" visible="true" weight="0.18381241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -491,7 +504,7 @@
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.41379312" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.2885246" />
       <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.15506808" side_tool="true" weight="0.63829786" />
       <window_info anchor="bottom" id="JRebel Executor" order="16" />
       <window_info anchor="bottom" id="MyBatis Log" order="17" weight="0.1603928" />
@@ -500,7 +513,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3214826" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.30257186" />
       <window_info anchor="right" id="Database" order="6" weight="0.32920355" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -550,13 +563,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar!/javax/persistence/Column.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.2/mapper-3.4.2.jar!/tk/mybatis/mapper/common/Mapper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -809,12 +815,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6291">
-          <caret line="233" column="16" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/jmf-web/jmf-web.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/ConvertUtil.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -825,7 +827,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/DataErrorDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="837">
           <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -835,7 +837,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/LearnApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="297">
           <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -859,7 +861,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="1026">
           <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -867,10 +869,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jmf-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+        <state relative-caret-position="165">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>

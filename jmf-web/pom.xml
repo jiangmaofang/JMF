@@ -16,6 +16,15 @@
         <dependency>
             <groupId>cn.com.jmf.learn</groupId>
             <artifactId>jmf-commons</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>cn.com.jmf.learn</groupId>
+            <artifactId>jmf-service</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
         </dependency>
 
         <!-- spring-web启动器 -->
@@ -99,17 +108,7 @@
             <groupId>tk.mybatis</groupId>
             <artifactId>mapper</artifactId>
         </dependency>
-        <dependency>
-            <groupId>cn.com.jmf.learn</groupId>
-            <artifactId>jmf-service</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-devtools</artifactId>
-        </dependency>
 
     </dependencies>
 

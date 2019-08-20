@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b9ee5ea-10d9-4eaa-b707-d568e45cb314" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/jmf-web/target/" />
+    <ignored path="$PROJECT_DIR$/jmf-commons/target/" />
+    <ignored path="$PROJECT_DIR$/jmf-persistence/target/" />
+    <ignored path="$PROJECT_DIR$/jmf-tansplant/target/" />
+    <ignored path="$PROJECT_DIR$/jmf-framework/target/" />
+    <ignored path="$PROJECT_DIR$/jmf-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1393744406">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="12" />
+          <entry key="html" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="126" />
+          <entry key="xml" value="45" />
+          <entry key="yml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="12" />
+          <entry key="HTML" value="1" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="126" />
+          <entry key="XML" value="45" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="dummy" value="21" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="2041" />
+          <entry key="xml" value="722" />
+          <entry key="yml" value="134" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="2041" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="XML" value="722" />
+          <entry key="YAML" value="134" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/PageInterceptorProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/MysqlMapperConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="74" selection-start-line="74" selection-end-line="78" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jmf-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6291">
+              <caret line="233" column="16" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/ConvertUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11961">
+              <caret line="476" column="15" selection-start-line="476" selection-start-column="15" selection-end-line="476" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/DataErrorDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/LearnApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/DruidProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/SysUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fields</find>
+      <find>MapperScannerConfigurer</find>
+      <find>SaafToolUtils.parperParam</find>
+      <find>StringUtils</find>
+      <find>lombok</find>
+      <find>commons-lang3.version</find>
+      <find>SysUserDataValidator</find>
+      <find>MD5</find>
+      <find>sysUserMapper</find>
+      <find>spring-boot-devtools</find>
+      <find>spring</find>
+      <find>spring-boot</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sysUserDAO</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\work\fifth-learn\jmf-framework\src\main\java\cn\com\jmf\learn\common</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/excel/ExcelUtil.java" />
+        <option value="$PROJECT_DIR$/jmf-commons/src/test/java/importDate.java" />
+        <option value="$PROJECT_DIR$/jmf-commons/src/test/java/importData.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/webConfig.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/ServletContextConfig.java" />
+        <option value="$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/jmf-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/DTO/SupplierDTO.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/utils/ExcelExportUtil.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/utils/HeaderUtil.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/HelloControlller.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/MysqlSeesion.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/DruidProperties.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/my7/config/PageInterceptorProperties.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/my7/config/MysqlMapperConfig.java" />
+        <option value="$PROJECT_DIR$/jmf-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/jmf-framework/src/main/java/cn/com/jmf/learn/common/mapper/Mapper.java" />
+        <option value="$PROJECT_DIR$/jmf-persistence/src/main/java/cn/com/jmf/learn/my7/model/User.java" />
+        <option value="$PROJECT_DIR$/jmf-persistence/pom.xml" />
+        <option value="$PROJECT_DIR$/jmf-persistence/src/main/java/cn/com/jmf/learn/my7/model/vo/SysUserVo.java" />
+        <option value="$PROJECT_DIR$/jmf-persistence/src/main/resources/mapper/SysUserMaper.xml" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/enums/OperationType.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/validator/DataValidator.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/DataErrorDTO.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/utils/Common.java" />
+        <option value="$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/MessageUtil.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/utils/Msg.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/validator/ValidatorUtils.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/SupplierDTO.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/Md5Utils.java" />
+        <option value="$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/SysUserDTO.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jmf-service/pom.xml" />
+        <option value="$PROJECT_DIR$/jmf-persistence/src/main/java/cn/com/jmf/learn/my7/mapper/SysUserMapper.java" />
+        <option value="$PROJECT_DIR$/jmf-persistence/src/main/java/cn/com/jmf/learn/my7/mapper/SysUserDAO.java" />
+        <option value="$PROJECT_DIR$/jmf-persistence/src/main/java/cn/com/jmf/learn/my7/model/SysUser.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/utils/FieldName.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/validator/SysUserExistValidator.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/validator/SysUserDataValidator.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/service/SysUserService.java" />
+        <option value="$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/service/impl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/fixTest.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/SysUserController.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/LearnApplication.java" />
+        <option value="$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/MysqlMapperConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jmf-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jmf-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jmf-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="390" />
+    <option name="y" value="147" />
+    <option name="width" value="784" />
+    <option name="height" value="627" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fifth-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifth-learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566287711080" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.com.jmf.learn.utils" />
+      <recent name="cn.com.jmf.learn.dto" />
+      <recent name="cn.com.jmf.learn.enums" />
+      <recent name="cn.com.jmf.learn.validator" />
+      <recent name="cn.com.jmf.learn.my7.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\fifth-learn\jmf-web\src\main\resources" />
+      <recent name="E:\work\fifth-learn\jmf-commons\src\main\java\cn\com\jmf\learn\utils" />
+      <recent name="E:\work\fifth-learn\jmf-tansplant\src\main\java\cn\com\jmf\learn\my6\mapper" />
+      <recent name="E:\work\fifth-learn\jmf-tansplant\src\main\java\cn\com\jmf\learn\my6" />
+      <recent name="E:\work\fifth-learn\jmf-tansplant\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LearnApplication">
+    <configuration name="LearnApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jmf-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.com.jmf.learn.my7.LearnApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jmf-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.com.jmf.learn.LearnApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jmf-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.com.jmf.learn.LearnApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.LearnApplication" />
+      <item itemvalue="Spring Boot.LearnApplication (1)" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b9ee5ea-10d9-4eaa-b707-d568e45cb314" name="Default Changelist" comment="" />
+      <created>1562893395677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562893395677</updated>
+      <workItem from="1562893401939" duration="5718000" />
+      <workItem from="1562911105467" duration="2103000" />
+      <workItem from="1563018165831" duration="756000" />
+      <workItem from="1563458223698" duration="25000" />
+      <workItem from="1564470984813" duration="26000" />
+      <workItem from="1564472469625" duration="6550000" />
+      <workItem from="1564535501489" duration="505000" />
+      <workItem from="1564536315190" duration="1051000" />
+      <workItem from="1564968252393" duration="12998000" />
+      <workItem from="1565053190805" duration="6543000" />
+      <workItem from="1565571925453" duration="194000" />
+      <workItem from="1565572427486" duration="133000" />
+      <workItem from="1565573630769" duration="13271000" />
+      <workItem from="1565658360559" duration="11213000" />
+      <workItem from="1565839859080" duration="3540000" />
+      <workItem from="1565849377169" duration="6552000" />
+      <workItem from="1565920236671" duration="13777000" />
+      <workItem from="1566177116913" duration="9033000" />
+      <workItem from="1566263756709" duration="861000" />
+      <workItem from="1566272107807" duration="7000" />
+      <workItem from="1566272233604" duration="3056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97912000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="636" y="86" width="784" height="627" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.24438903" visible="true" weight="0.40469614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="JRebel" order="8" sideWeight="0.75561094" side_tool="true" weight="0.27836612" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.60287446" weight="0.34860885" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8449319" weight="0.30278233" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49924356" weight="0.2111293" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32851985" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.47463176" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.41379312" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.15506808" side_tool="true" weight="0.63829786" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="MyBatis Log" order="17" weight="0.1603928" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3214826" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32920355" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="11" weight="0.38752362" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="importList" />
+        <watch expression="importList" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar!/javax/persistence/Column.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.2/mapper-3.4.2.jar!/tk/mybatis/mapper/common/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-framework/src/main/java/cn/com/jmf/learn/common/mapper/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.2/mapper-3.4.2.jar!/tk/mybatis/mapper/common/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.2/mapper-3.4.2.jar!/tk/mybatis/mapper/common/base/BaseSelectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.2/mapper-3.4.2.jar!/tk/mybatis/mapper/common/base/select/SelectOneMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/enums/OperationType.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/StringUtils.class" />
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/utils/Msg.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/MessageUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/utils/Common.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/DTO/SupplierDTO.java" />
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/SupplierDTO.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/ReflectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7343">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/CommonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-persistence/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.jar!/org/springframework/boot/context/config/ConfigFileApplicationListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11288">
+          <caret line="520" selection-start-line="520" selection-end-line="520" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="17" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/SysUserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/Md5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-persistence/src/main/resources/mapper/SysUserDAO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-persistence/src/main/java/cn/com/jmf/learn/my7/model/vo/SysUserVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-persistence/src/main/java/cn/com/jmf/learn/my7/mapper/SysUserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.2/mapper-3.4.2.jar!/tk/mybatis/mapper/common/base/select/SelectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/validator/SysUserExistValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="33" column="60" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="33" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/validator/ValidatorUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="135" column="26" selection-start-line="135" selection-start-column="26" selection-end-line="135" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/utils/FieldName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/validator/SysUserDataValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/validator/DataValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/service/impl/SysUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-persistence/src/main/java/cn/com/jmf/learn/my7/model/SysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/service/SysUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/resources/mybatis-config-mysql.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/fixTest.java" />
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/PageInterceptorProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/MysqlMapperConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="74" selection-start-line="74" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6291">
+          <caret line="233" column="16" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-commons/src/main/java/cn/com/jmf/learn/utils/ConvertUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11961">
+          <caret line="476" column="15" selection-start-line="476" selection-start-column="15" selection-end-line="476" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-service/src/main/java/cn/com/jmf/learn/dto/DataErrorDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/LearnApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/config/DruidProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/src/main/java/cn/com/jmf/learn/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jmf-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JRebel</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fifth-learn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.com.jmf.learn.config.DruidProperties",
+      "name": "spring.datasource.druid",
+      "type": "cn.com.jmf.learn.config.DruidProperties"
+    },
+    {
+      "sourceType": "cn.com.jmf.learn.config.MysqlMapperConfig",
+      "name": "spring.datasource.druid.master",
+      "sourceMethod": "systemDataSource(cn.com.jmf.learn.config.DruidProperties)",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}

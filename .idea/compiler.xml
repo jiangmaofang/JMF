@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jmf-commons" />
+        <module name="jmf-framework" />
+        <module name="jmf-persistence" />
+        <module name="jmf-service" />
+        <module name="jmf-tansplant" />
+        <module name="jmf-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -30,7 +30,7 @@
         <commons-lang3.version>3.7</commons-lang3.version>
         <lombok.version>1.16.10</lombok.version>
         <swagger.version>2.9.2</swagger.version>
-        <commons.io.version>2.4</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <pagehelper.version>1.2.5</pagehelper.version>
         <commons.collections4.version>4.1</commons.collections4.version>
     </properties>
